@@ -1,4 +1,4 @@
-# KotlinDataStructuresAlgorithms
+# Kotlin Data Structures and Algorithms
 
 ## 🛠	work in progress 🛠
 
