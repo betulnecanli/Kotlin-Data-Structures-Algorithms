@@ -2,6 +2,8 @@ package com.betulnecanli.kotlindatastructuresalgorithms.Queue
 
 interface Queue<T> {
 
+
+
     // Inserts an element at the back of the queue and returns true if the
     //operation is successful
     fun enqueue(element : T) : Boolean
