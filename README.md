@@ -9,7 +9,7 @@
 - [Queue](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Queue "Queue")
 - [Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees "Tree")
   - [Binary Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinaryTrees "Binary Trees")
-  - AVL Trees
+  - [AVL Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/AVLTrees "AVL Trees")
   - Binary Search
   - [Binary Search Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinarySearchTrees "Binary Search Trees")
   - The Heap Data Structure
