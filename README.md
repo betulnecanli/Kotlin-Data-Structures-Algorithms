@@ -3,9 +3,9 @@
 ## 🛠	work in progress 🛠
 
 ## Table of Contents📝
-- Complexity
-  - Space Complexity
-  - Time Complexity
+- [Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity "Complexity")
+  - [Space Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity/SpaceComplexity "SpaceComplexity")
+  - [Time Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity/TimeComplexity "TimeComplexity")
 - [LinkedList](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/LinkedList "LinkedList")
 - [DoublyLinkedList](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/DoublyLinkedList "DoublyLinkedList")
 - [Stack](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Stack "Stack")
