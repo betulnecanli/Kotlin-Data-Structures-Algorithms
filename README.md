@@ -3,13 +3,16 @@
 ## 🛠	work in progress 🛠
 
 ## Table of Contents📝
+- Complexity
+  - Space Complexity
+  - Time Complexity
 - [LinkedList](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/LinkedList "LinkedList")
 - [DoublyLinkedList](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/DoublyLinkedList "DoublyLinkedList")
 - [Stack](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Stack "Stack")
 - [Queue](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Queue "Queue")
 - [Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees "Tree")
   - [Binary Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinaryTrees "Binary Trees")
-  - AVL Trees
+  - [AVL Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/AVLTrees "AVL Trees")
   - Binary Search
   - [Binary Search Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinarySearchTrees "Binary Search Trees")
   - The Heap Data Structure
