@@ -94,6 +94,42 @@ class AVLTree<T : Comparable<T>>() {
     private fun remove(node : AVLNode<T>?, value :T) : AVLNode<T>?{
         node ?: return null
 
+        when{
+            value == node.value ->{
+                //In the case in which the node is a leaf node, you simply return null, thereby
+                //removing the current node.
+                if(node.leftChild == null && node.rightChild == null){
+                    return null
+                }
+                //In the case in which the node is a leaf node, you simply return null, thereby
+                //removing the current node.
+                if(node.leftChild == null){
+                    return node.rightChild
+                }
+                //If the node has no right child, you return node.leftChild to reconnect the left
+                //subtree.
+                if(node.rightChild == null){
+                    return node.leftChild
+                }
+                //This is the case in which the node to be removed has both a left and right child.
+                //You replace the node’s value with the smallest value from the right subtree. You
+                //then call remove on the right child to remove this swapped value
+                node.rightChild?.min?.value?.let{
+                    node.value = it
+                }
+
+                node.rightChild = remove(node.rightChild, node.value)
+
+            }
+            value < node.value ->node.leftChild = remove(node.leftChild, value)
+            else -> node.rightChild = remove(node.rightChild, value)
+        }
+        val balancedNode = balanced(node)
+        balancedNode.height = max(
+            balancedNode.leftHeight,
+            balancedNode.rightHeight
+        ) + 1
+        return balancedNode
 
     }
 

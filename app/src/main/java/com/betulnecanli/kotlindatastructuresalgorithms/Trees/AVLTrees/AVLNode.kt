@@ -13,6 +13,8 @@ class AVLNode<T>(var value : T) {
         get() = leftChild?.height ?: 0
     val rightHeight : Int
         get() = rightChild?.height ?: 0
+    val min : AVLNode<T>?
+        get() = leftChild?.min ?: this
 
     //The height of the left and right children of each node must differ at most by 1. This is
     //known as the balance factor.
