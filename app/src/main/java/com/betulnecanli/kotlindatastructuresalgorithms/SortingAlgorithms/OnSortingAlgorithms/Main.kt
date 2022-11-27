@@ -27,7 +27,7 @@ fun main(){
         println("Original: $list")
         list.selectionSort(true)
         println("Selection sorted: $list")
-        /*Original: [3, 4, 9, 10]
+        /*Original:     [3, 4, 9, 10]
                         [3, 4, 9, 10]
                         [3, 4, 9, 10]
                         [3, 4, 9, 10]
@@ -37,5 +37,12 @@ fun main(){
            Selection sorted: [3, 4, 9, 10]*/
 
         //insertion sort
-
+        println("Original: $list")
+        list.insertionSort(true)
+        println("Insertion sorted: $list")
+        /*Original:     [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+          Insertion sorted: [3, 4, 9, 10]*/
 }
