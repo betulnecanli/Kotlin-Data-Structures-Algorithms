@@ -16,9 +16,9 @@
   - Binary Search
   - [Binary Search Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinarySearchTrees "Binary Search Trees")
   - The Heap Data Structure
-- Sorting Algorithms
-  - O(n²) Sorting Algorithms
-  - Merge Sort
+- [Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms "Sorting Algorithms")
+  - [O(n²) Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms "O(n²) Sorting Algorithms")
+  - [Merge Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/MergeSort "Merge Sort")
   - Radix Sort
   - Heap Sort
   - Quicksort
