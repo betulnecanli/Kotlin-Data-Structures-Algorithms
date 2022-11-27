@@ -18,6 +18,10 @@
   - The Heap Data Structure
 - [Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms "Sorting Algorithms")
   - [O(n²) Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms "O(n²) Sorting Algorithms")
+    - [Bubble Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/blob/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms/BubbleSort.kt "Bubble Sort")
+    - [Selection Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/blob/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms/SelectionSort.kt "Selection Sort")
+    - [Insertion Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/blob/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms/InsertionSort.kt "Insertion Sort")
+    
   - [Merge Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/MergeSort "Merge Sort")
   - Radix Sort
   - Heap Sort
