@@ -5,6 +5,11 @@ package com.betulnecanli.kotlindatastructuresalgorithms.SortingAlgorithms.OnSort
         algorithm by reducing the number of swapAt operations. Selection sort only swaps at
         the end of each pass.*/
 
+        /*Like bubble sort, selection sort has a worst and average time complexity of O(n²),
+        which is fairly dismal. Unlike the bubble sort, it also has the best time complexity of
+        O(n²). Despite this, it performs better than bubble sort because it performs only O(n)
+        swaps — and the best thing about it is that it’s a simple one to understand.*/
+
         fun <T : Comparable<T>> ArrayList<T>.selectionSort(showPasses: Boolean = false){
             if(this.size < 2 ) return
             //1
