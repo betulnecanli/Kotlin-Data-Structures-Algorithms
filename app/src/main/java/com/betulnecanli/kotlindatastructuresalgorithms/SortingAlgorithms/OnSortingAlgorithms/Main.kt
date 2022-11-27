@@ -23,4 +23,19 @@ fun main(){
                     [3, 4, 9, 10]
           Bubble sorted: [3, 4, 9, 10]*/
 
+        //selection sort
+        println("Original: $list")
+        list.selectionSort(true)
+        println("Selection sorted: $list")
+        /*Original: [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+                        [3, 4, 9, 10]
+           Selection sorted: [3, 4, 9, 10]*/
+
+        //insertion sort
+
 }
