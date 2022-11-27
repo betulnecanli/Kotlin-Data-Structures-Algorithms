@@ -5,6 +5,8 @@ package com.betulnecanli.kotlindatastructuresalgorithms.SortingAlgorithms.OnSort
         adjacent values and swaps them, if needed, to perform the sort. The larger values in
         the set will, therefore, bubble up to the end of the collection.*/
 
+        /*Bubble sort has a best time complexity of O(n) if it’s already sorted, and a worst and
+        average time complexity of O(n²), making it one of the least appealing sorts.*/
     fun <T : Comparable<T>> ArrayList<T>.bubbleSort(showPasses : Boolean = true){
         //1
         if(this.size < 2) return
