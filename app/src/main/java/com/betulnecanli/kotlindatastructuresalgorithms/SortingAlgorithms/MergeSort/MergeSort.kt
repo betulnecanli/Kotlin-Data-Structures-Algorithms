@@ -41,6 +41,19 @@ package com.betulnecanli.kotlindatastructuresalgorithms.SortingAlgorithms.MergeS
             return result
         }
 
+            //1. The leftIndex and rightIndex variables track your progress as you parse
+            //through the two lists.
+            //2. The result list will house the combined lists.
+            //3. Starting from the beginning, you compare the elements in the left and right
+            //lists sequentially. When you reach the end of either list, there’s nothing else to
+            //compare.
+            //4. The smaller of the two elements goes into the result list. If the elements are
+            //equal, they can both be added.
+            //5. The first loop guarantees that either left or right is empty. Since both lists are
+            //sorted, this ensures that the leftover elements are greater than or equal to the
+            //ones currently in result. In this scenario, you can add the rest of the elements
+            //without comparison.
+
         fun <T : Comparable<T>> List<T>.mergeSort(): List<T> {
             if (this.size < 2) return this
             val middle = this.size / 2
@@ -48,4 +61,4 @@ package com.betulnecanli.kotlindatastructuresalgorithms.SortingAlgorithms.MergeS
             val right = this.subList(middle, this.size).mergeSort()
             return merge(left, right)
         }
-    
+            //The best, worst and average time complexity of merge sort is O(n log n).
