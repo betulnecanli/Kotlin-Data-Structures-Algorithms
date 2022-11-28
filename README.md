@@ -23,9 +23,9 @@
     - [Insertion Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/blob/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms/InsertionSort.kt "Insertion Sort")
     
   - [Merge Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/MergeSort "Merge Sort")
-  - Radix Sort
-  - Heap Sort
-  - Quicksort
+  - [Radix Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/RadixSort "Radix Sort")
+  - [Heap Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/HeapSort "Heap Sort")
+  - [Quicksort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/QuickSort "Quicksort")
 - Graphs
   - Breadth-First Search
   - Depth-First Search
