@@ -2,7 +2,7 @@
 
 ## 🛠	work in progress 🛠
 
-## Table of Contents📝
+## [Table of Contents📝](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms "Table of Contents📝")
 - [Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity "Complexity")
   - [Space Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity/SpaceComplexity "SpaceComplexity")
   - [Time Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity/TimeComplexity "TimeComplexity")
