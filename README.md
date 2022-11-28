@@ -13,9 +13,9 @@
 - [Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees "Tree")
   - [Binary Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinaryTrees "Binary Trees")
   - [AVL Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/AVLTrees "AVL Trees")
-  - Binary Search
+  - [Binary Search](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinarySearch "Binary Search")
   - [Binary Search Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinarySearchTrees "Binary Search Trees")
-  - The Heap Data Structure
+  - [The Heap Data Structure](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/TheHeapDataStructure "The Heap Data Structure")
 - [Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms "Sorting Algorithms")
   - [O(n²) Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms "O(n²) Sorting Algorithms")
     - [Bubble Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/blob/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms/BubbleSort.kt "Bubble Sort")
