@@ -13,7 +13,14 @@ class BinarySearchTree<T: Comparable<T>>() {
     private fun insert(node : BinaryNode<T>?,
                         value: T
                        ): BinaryNode<T>{
+        //This is a recursive method, so it requires a base case for terminating recursion. If
+        //the current node is null, you’ve found the insertion point and return the new
+        //BinaryNode.
         node ?: return BinaryNode(value)
+        //This if statement controls which way the next insert call should traverse. If the
+        //new value is less than the current value, you call insert on the left child. If the
+        //new value is greater than or equal to the current value, you call insert on the
+        //right child.
         if(value < node.value){
             node.leftChild = insert(node.leftChild, value)
 
@@ -21,6 +28,9 @@ class BinarySearchTree<T: Comparable<T>>() {
         else{
             node.rightChild = insert(node.rightChild, value)
         }
+        //Return the current node. This makes assignments of the form node =
+        //insert(node, value) possible as insert will either create node (if it was null)
+        //or return node (if it was not null).
         return node
 
     }

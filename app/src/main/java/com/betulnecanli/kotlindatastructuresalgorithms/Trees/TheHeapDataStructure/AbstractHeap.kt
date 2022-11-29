@@ -126,9 +126,9 @@ interface Collection<Element> {
                 if (i >= count) {
                     return null // 1
                 }
-                if (sort(element, elements[i])) {
+                /*if (sort(element, elements[i])) {
                     return null // 2
-                }
+                }*/
                 if (element == elements[i]) {
                     return i // 3
                 }

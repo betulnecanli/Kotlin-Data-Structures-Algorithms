@@ -8,7 +8,7 @@ package com.betulnecanli.kotlindatastructuresalgorithms.Trees.TheHeapDataStructu
 //2. Minheap, in which elements with a lower value have a higher priority.
 
 
-class ComparableHeapImpl<Element : Comparable<Element>>() :
+/*class ComparableHeapImpl<Element : Comparable<Element>>() :
     AbstractHeap<Element>() {
 
 
@@ -27,3 +27,4 @@ class ComparableHeapImpl<Element : Comparable<Element>>() :
 
 
 }
+*/
