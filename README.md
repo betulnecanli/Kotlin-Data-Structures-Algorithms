@@ -25,7 +25,7 @@
   - [Radix Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/RadixSort "Radix Sort")
   - [Heap Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/HeapSort "Heap Sort")
   - [Quicksort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/QuickSort "Quicksort")
-- Graphs
+- [Graphs](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Graphs "Graphs")
   - Breadth-First Search
   - Depth-First Search
   - Dijkstra's Algorithm
