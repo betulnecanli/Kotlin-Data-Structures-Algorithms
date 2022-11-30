@@ -10,9 +10,9 @@ class AVLNode<T>(var value : T) {
 
     var height = 0
     val leftHeight : Int
-        get() = leftChild?.height ?: 0
+        get() = leftChild?.height ?: -1
     val rightHeight : Int
-        get() = rightChild?.height ?: 0
+        get() = rightChild?.height ?: -1
     val min : AVLNode<T>?
         get() = leftChild?.min ?: this
 
