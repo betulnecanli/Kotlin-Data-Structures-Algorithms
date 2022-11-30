@@ -26,10 +26,7 @@
   - [Heap Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/HeapSort "Heap Sort")
   - [Quicksort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/QuickSort "Quicksort")
 - [Graphs](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Graphs "Graphs")
-  - Breadth-First Search
-  - Depth-First Search
-  - Dijkstra's Algorithm
-  - Prim's Algorithm
+  
 
 ## Medium📜
 - [Data Structures and Algorithms in Kotlin-1](https://medium.com/@betulnecanli/data-structures-and-algorithms-in-kotlin-1-6500cdbefe14 "Data Structures and Algorithms in Kotlin-1")
