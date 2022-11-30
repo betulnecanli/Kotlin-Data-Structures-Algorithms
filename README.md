@@ -1,6 +1,6 @@
 # Kotlin Data Structures and Algorithms
 
-## 🛠	work in progress 🛠
+##
 
 ## [Table of Contents📝](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms "Table of Contents📝")
 - [Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity "Complexity")
