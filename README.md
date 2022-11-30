@@ -35,5 +35,5 @@
  - [Data Structures and Algorithms in Kotlin-2](https://medium.com/@betulnecanli/data-structures-and-algorithms-in-kotlin-2-259148466508 "Data Structures and Algorithms in Kotlin-2")
    - Trees
    - Sorting Algorithms
- - Data Structures and Algorithms in Kotlin-3
+ - [Data Structures and Algorithms in Kotlin-3](https://medium.com/@betulnecanli/data-structures-and-algorithms-in-kotlin-3-a97c9700f36d "Data Structures and Algorithms in Kotlin-3")
    - Graphs
