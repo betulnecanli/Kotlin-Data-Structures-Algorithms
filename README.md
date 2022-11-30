@@ -15,7 +15,6 @@
   - [AVL Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/AVLTrees "AVL Trees")
   - [Binary Search](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinarySearch "Binary Search")
   - [Binary Search Trees](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/BinarySearchTrees "Binary Search Trees")
-  - [The Heap Data Structure](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Trees/TheHeapDataStructure "The Heap Data Structure")
 - [Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms "Sorting Algorithms")
   - [O(n²) Sorting Algorithms](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms "O(n²) Sorting Algorithms")
     - [Bubble Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/blob/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/OnSortingAlgorithms/BubbleSort.kt "Bubble Sort")
@@ -36,7 +35,7 @@
 - [Data Structures and Algorithms in Kotlin-1](https://medium.com/@betulnecanli/data-structures-and-algorithms-in-kotlin-1-6500cdbefe14 "Data Structures and Algorithms in Kotlin-1")
   -  Algorithms(Big O)
   -  Elemantary Data Structures(Linked List, Doubly Linked List, Stack, Queue)
- - Data Structures and Algorithms in Kotlin-2
+ - [Data Structures and Algorithms in Kotlin-2](https://medium.com/@betulnecanli/data-structures-and-algorithms-in-kotlin-2-259148466508 "Data Structures and Algorithms in Kotlin-2")
    - Trees
    - Sorting Algorithms
  - Data Structures and Algorithms in Kotlin-3
