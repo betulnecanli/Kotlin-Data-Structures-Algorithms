@@ -1,8 +1,8 @@
-# Kotlin Data Structures and Algorithms
+
+#  <h1 align="center">📚 Kotlin Data Structures and Algorithms</h1>
+#  <h2 align="center"> [Table of Contents📝](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms "Table of Contents📝")</h2>
 
 ##
-
-## [Table of Contents📝](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms "Table of Contents📝")
 - [Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity "Complexity")
   - [Space Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity/SpaceComplexity "SpaceComplexity")
   - [Time Complexity](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Complexity/TimeComplexity "TimeComplexity")
@@ -28,7 +28,8 @@
 - [Graphs](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Graphs "Graphs")
   
 
-## Medium📜
+
+#  <h2 align="center">Medium📜 </h2>
 - [Data Structures and Algorithms in Kotlin-1](https://medium.com/@betulnecanli/data-structures-and-algorithms-in-kotlin-1-6500cdbefe14 "Data Structures and Algorithms in Kotlin-1")
   -  Algorithms(Big O)
   -  Elemantary Data Structures(Linked List, Doubly Linked List, Stack, Queue)
