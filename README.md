@@ -26,6 +26,8 @@
   - [Heap Sort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/HeapSort "Heap Sort")
   - [Quicksort](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/SortingAlgorithms/QuickSort "Quicksort")
 - [Graphs](https://github.com/betulnecanli/KotlinDataStructuresAlgorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/Graphs "Graphs")
+- [Coding Patterns](https://github.com/betulnecanli/Kotlin-Data-Structures-Algorithms/tree/master/app/src/main/java/com/betulnecanli/kotlindatastructuresalgorithms/CodingPatterns)
+
   
 
 
