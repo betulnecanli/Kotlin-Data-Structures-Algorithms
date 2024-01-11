@@ -42,3 +42,4 @@
  - [Data Structures and Algorithms in Kotlin-3](https://medium.com/@betulnecanli/data-structures-and-algorithms-in-kotlin-3-a97c9700f36d "Data Structures and Algorithms in Kotlin-3")
    - Graphs
  - [Design Patterns](https://betulnecanli.medium.com/design-patterns-0d4d2c191788 "Design Patterns")
+ - [Kotlin Collections](https://betulnecanli.medium.com/kotlin-collections-0a43aa97b4f3 "Kotlin Collections")
